@@ -1,0 +1,21 @@
+{
+    "changeLanguage": "Changer de langue",
+    "changeDarkMode": "Light Mode",
+    "changeLightMode": "Dark Mode",
+    "robotAvatarSetting": "Robot Avatar ",
+    "userAvatarSettings": "Utilisateur Avatar ",
+    "systemRoleSettings": "Role du System ",
+    "systemRoleDescription": "Le rôle système fait référence à l'identité du rôle dans le texte généré, qui peut être différents personnages, robots ou autres entités. En définissant différents rôles système, vous pouvez contrôler les émotions et le ton du texte généré pour mieux s'adapter aux besoins de scénarios spécifiques.",
+    "systemRoleHelp": "Vous ne savez pas comment définir le rôle système ? Come Awesome ChatGPT Invites pour choisir le rôle système que vous souhaitez : ",
+    "apiKeySettings": "API KEY",
+    "apiKeyDescription": "Veuillez entrer votre clé API, ce qui garantira que votre assistant fonctionne plus rapidement et mieux. Soyez assuré que la clé API que vous entrez ne sera pas téléchargée sur notre serveur, mais sera uniquement stockée localement dans votre navigateur, sans risque de fuite. Nous ferons tout notre possible pour protéger votre vie privée et la sécurité de vos données.",
+    "apiKeyHelp": "Vous ne savez pas comment obtenir votre clé API ? Si vous avez un compte Open AI, veuillez consulter Clés API Open AI Platform pour afficher votre liste de clés API : ",
+    "totalGranted": "total_accordé",
+    "totalAvailable": "total_disponible",
+    "totalUsed": "total_utilisé",
+    "expiresAt": "expires_le",
+    "conversation": "Conversation",
+    "save": "sauvegarder",
+    "apiKeyRequiredTip1": "Veuillez définir votre clé API OpenAI en bas à gauche de la barre latérale",
+    "apiKeyRequiredTip2": "Si vous n'avez pas de clé API OpenAI, vous pouvez en obtenir une ici :"
+}
