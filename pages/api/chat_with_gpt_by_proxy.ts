@@ -12,7 +12,7 @@ export default async function handler(
     req: NextApiRequest,
     res: NextApiResponse
 ) {
-    const apiKey = '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';
+    const apiKey = process.env.API_KEY;
     // owner api key proxy open ai service
     if (req.method === 'POST') {
         const postData = JSON.parse(req.body) as PostData;
